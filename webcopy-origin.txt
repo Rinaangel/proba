@@ -1,0 +1,36 @@
+Uri: https://a.teads.tv/page/85112/tag
+File Name: C:\Downloaded Web Sites\www.internetstandard.pl\page\85112\tag
+Content Type: application/javascript
+
+Uri: https://s7.addthis.com/js/300/addthis_widget.js
+File Name: C:\Downloaded Web Sites\www.internetstandard.pl\js\300\addthis_widget.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993
+File Name: C:\Downloaded Web Sites\www.internetstandard.pl\beacon.min.js\vaafb692b2aea4879b33c060e79fe94621666317369993
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-RYDGHPRXXT
+File Name: C:\Downloaded Web Sites\www.internetstandard.pl\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.internetstandard.pl/favicon.ico
+File Name: C:\Downloaded Web Sites\www.internetstandard.pl\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.internetstandard.pl/news/Nowy-mBank-pl-analiza-serwisu-ze-wzgledu-na-SEO,390511.html
+File Name: C:\Downloaded Web Sites\www.internetstandard.pl\news\Nowy-mBank-pl-analiza-serwisu-ze-wzgledu-na-SEO,390511.html
+Content Type: text/html
+
+Uri: https://www.internetstandard.pl/news/Nowy-mBank-pl-analiza-serwisu-ze-wzgledu-na-SEO,390511.html?amp=1
+File Name: C:\Downloaded Web Sites\www.internetstandard.pl\news\Nowy-mBank-pl-analiza-serwisu-ze-wzgledu-na-SEO,390511-1.html
+Content Type: text/html
+
+Uri: https://www.internetstandard.pl/news?rss
+File Name: C:\Downloaded Web Sites\www.internetstandard.pl\news-1
+Content Type: application/rss+xml
+
+Uri: https://www.youtube.com/iframe_api
+File Name: C:\Downloaded Web Sites\www.internetstandard.pl\iframe_api
+Content Type: text/javascript
+
